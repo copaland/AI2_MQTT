@@ -1,1 +1,0 @@
-Alle Dateien außer App.Java nach Appinventor kopieren.
